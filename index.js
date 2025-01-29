@@ -6,7 +6,7 @@ const app = express();
 const port = process.env.PORT || 8000;
 
 const corsOptions = {
-  origin: 'https://hng12-javascript.vercel.app/', 
+  origin: 'https://hng-task-zero.vercel.app/', 
   methods: ['GET'], 
 };
 
